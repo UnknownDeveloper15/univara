@@ -1,0 +1,2 @@
+SECRET_KEY = "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"
+SQLALCHEMY_DATABASE_URI = "sqlite:///database.db"
